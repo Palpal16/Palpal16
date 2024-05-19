@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I am Simone Paloschi a mathematical engineer at PoliMi.\\
+I am Simone Paloschi a mathematical engineer at PoliMi.  
 I am passionate about neural network development and mathematical modelling.
 
 ## Repos 💻
