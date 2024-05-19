@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome 👋
+
+I am Simone Paloschi a mathematical engineer at PoliMi. I am passionate about neural network development and mathematical modelling.
+
+## Repos 💻
+Here you can find my repositeries. Some fun works in python or C++ and also a lot of my university notes written in $\LaTeX$.
+
 
 <!--
 **Palpal16/Palpal16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
