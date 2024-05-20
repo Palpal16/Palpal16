@@ -1,9 +1,9 @@
-### Welcome 👋
+### 👋 Welcome 👋
 
 I am Simone Paloschi a mathematical engineer at PoliMi.  
 I am passionate about neural networks development and mathematical modelling.
 
-## Repos 💻
+## 💻 Repos 💻
 Here you can find my repositeries. Some fun works in python or C++ and also a lot of my university notes written in $\LaTeX$.
 
 
