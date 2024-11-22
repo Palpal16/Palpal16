@@ -2,10 +2,6 @@
 
 Hi there! I’m Simone Paloschi, a passionate developer with a strong foundation in mathematical engineering, computational learning, and problem-solving✨. My repository is a showcase of my journey into machine learning, numerical methods, and software development. Below, you’ll find a glimpse into some of the projects I’m most proud of:
 
-### Welcome to My GitHub!  👋
-
-Hi there! I’m Simone Paloschi, a passionate developer with a strong foundation in mathematical engineering, computational learning, and problem-solving✨. My repository is a showcase of my journey into machine learning, numerical methods, and software development. Below, you’ll find a glimpse into some of the projects I’m most proud of:
-
 Explore **machine learning innovation** through my [Neural Networks Development](https://github.com/Palpal16/NeuralNetworksDevelopment), where I’ve built and optimized models to solve classification challenges. For a deeper dive into coding fundamentals, my [C++ Neural Network](https://github.com/Palpal16/CppNeuralNetwork) project illustrates the inner workings of neural networks from scratch.
 
 On the computational side, I’ve tackled efficiency and scalability with the [Poisson Parallel Solver](https://github.com/Palpal16/PoissonParallelSolver), leveraging C++ and MPI for high-performance numerical solutions.
